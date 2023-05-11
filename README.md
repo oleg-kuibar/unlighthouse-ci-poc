@@ -1,6 +1,6 @@
-# POC: Integration of "unlighthouse" for FE App Performance Evaluation
+# POC: Integration of [unlighthouse](https://unlighthouse.dev/) for FE App Performance Evaluation
 
-This repository serves as a Proof of Concept (POC) for integrating the "unlighthouse" tool into the Continuous Integration (CI) process to evaluate the performance of Front-End (FE) application branches, including PR branches and the main branch.
+This repository serves as a Proof of Concept (POC) for integrating the [unlighthouse](https://unlighthouse.dev/) tool into the Continuous Integration (CI) process to evaluate the performance of Front-End (FE) application branches, including PR branches and the main branch.
 
 ## Features
 
